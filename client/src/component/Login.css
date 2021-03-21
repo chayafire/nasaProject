@@ -1,0 +1,25 @@
+@media all and (min-width: 480px) {
+  
+    .Login {
+      padding: 10px 0;
+    }
+  
+    .Login form {
+      margin: 0 auto;
+      max-width: 320px;
+    }
+  
+
+  }
+
+ .background{
+    background-image: url(/src/image/backGround8-01.jpg);
+
+      padding-bottom: 8%;
+      padding-top: 4%;
+      margin-left: 3%;
+      margin-right: 3%;
+      background-size: cover;
+      background-repeat: no-repeat;
+  }
+
